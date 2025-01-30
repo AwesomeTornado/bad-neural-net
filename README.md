@@ -1,4 +1,4 @@
-# bad-neural-net
+# neural-net
 a class based neural network library that I designed in middle school.
 
 this is an upload of my project as-is, the main loop is filled with my code. you can just delete it and write your own, or you can use it as an example of how to use this project.
